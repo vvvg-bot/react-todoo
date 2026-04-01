@@ -1,0 +1,21 @@
+{
+    "notes": "Notes",
+    "allNotes": "All Notes",
+    "list" : "List",
+    "grid" : "Grid",
+    "add" : "ADD",
+    "delete" : "DELETE",
+    "edit" : "EDIT",
+    "search" : "Search...",
+    "edited" : "Edited",
+    "no_notes" : "No notes",
+    "note" : "Note",
+    "text" : "Text",
+    "title" : "Title",
+    "cancel" : "CANCEL",
+    "add_note" : "Add note",
+    "edit_note" : "Edit note",
+    "confirm_del" : "Are you sure about this Nigga?",
+    "yes" : "Yes",
+    "alert" : "You need to enter minimum 2 symbols in each field Nigga"
+}
